@@ -1,16 +1,20 @@
-## This Repo is team project of our college group
+# This Repo is team project of our college group
 
-### To start react App
+## To Start react App
+#### Open Terminal
+
+#### `cd frontend`
+
+#### If Starting for first time : `npm i` and  `npm start`
+
+#### Else : `npm start`
+
+
+## To Start API
 
 
 #### Open Terminal
-### `cd frontend`
-### `npm start`
-
-
-### To start API
-
-
-#### Open Terminal
-### `cd backend`
-### `uvicorn backend:app --reload`
+#### `cd backend`
+#### If Starting for first time : `pip install -r requirements.txt`
+#### To start API 
+#### `uvicorn backend:app --reload`
